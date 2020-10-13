@@ -8,6 +8,8 @@ authors = ["Alex Kiura <kiuraalex@gmail.com>"]
 python = "^3.7"
 django = "^3.1.2"
 channels = "^2.4.0"
+channels_redis = "^3.1.0"
+ipython = "^7.18.1"
 
 [tool.poetry.dev-dependencies]
 
