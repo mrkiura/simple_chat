@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "simple_chat"
+version = "0.1.0"
+description = "A chat app built with Django Channels"
+authors = ["Alex Kiura <kiuraalex@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+django = "^3.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
