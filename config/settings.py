@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 PREREQ_APPS = [
+    'channels',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
