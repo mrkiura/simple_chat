@@ -6,7 +6,7 @@ authors = ["Alex Kiura <kiuraalex@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-django = "^3.1.2"
+django = "^3.2.24"
 channels = "^2.4.0"
 channels_redis = "^3.1.0"
 ipython = "^7.18.1"
